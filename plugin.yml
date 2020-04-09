@@ -1,0 +1,10 @@
+name: SomethingNewPlugin
+main: org.sotap.Main
+version: 1
+api-version: 1.15
+author: constant137
+commands: 
+  sexset: 
+    description: Set your sex(can be done only once!)
+  setpreference: 
+    description: Set your sex preference
